@@ -1,0 +1,499 @@
+# 📚 Economía y Gestión de las Organizaciones
+
+### Apuntes de Examen — Prof. Lic. Gustavo Miculicich
+
+> Resumen completo de los 4 apuntes de la materia más un desarrollo ampliado de las principales escuelas de pensamiento económico.
+
+-----
+
+## 📋 Tabla de Contenidos
+
+1. [¿Qué es la Economía?](#1-qué-es-la-economía)
+1. [Problemas Económicos Fundamentales](#2-problemas-económicos-fundamentales)
+1. [Microeconomía y Macroeconomía](#3-microeconomía-y-macroeconomía)
+1. [Las Necesidades Humanas](#4-las-necesidades-humanas)
+1. [Los Bienes Económicos](#5-los-bienes-económicos)
+1. [Servicios y Factores de Producción](#6-servicios-y-factores-de-producción)
+1. [Ley de Oferta y Demanda](#7-ley-de-oferta-y-demanda)
+1. [Tipos de Competencia](#8-tipos-de-competencia)
+1. [Agentes y Sectores Económicos](#9-agentes-y-sectores-económicos)
+1. [Valor Agregado y Flujo Circular](#10-valor-agregado-y-flujo-circular)
+1. [Escuelas de Pensamiento Económico](#11-escuelas-de-pensamiento-económico)
+- [Escuela Clásica](#-escuela-clásica)
+- [Escuela Neoclásica](#-escuela-neoclásica)
+- [Escuela Keynesiana](#-escuela-keynesiana)
+- [Escuela Monetarista](#-escuela-monetarista)
+- [Escuela Socialista / Marxista](#-escuela-socialista--marxista)
+1. [Tabla Comparativa Final](#12-tabla-comparativa-final)
+
+-----
+
+## 1. ¿Qué es la Economía?
+
+La **economía** es una *ciencia social* que estudia cómo las sociedades utilizan sus recursos limitados para producir, distribuir y consumir bienes y servicios destinados a satisfacer necesidades.
+
+Etimológicamente proviene del griego *oikonomía*: **oikos** (casa) + **nomos** (norma/administración).
+
+> **Principio fundamental:** Los recursos son *limitados*, mientras que las necesidades humanas son *ilimitadas*.
+
+### ¿Por qué es una ciencia social?
+
+A diferencia de las ciencias naturales, no puede hacer experimentos controlados porque:
+
+- Los fenómenos sociales son complejos y cambiantes
+- Las condiciones nunca se repiten exactamente igual
+- Las personas están influenciadas por factores culturales, sociales, políticos e ideológicos
+
+Por esto pueden existir **distintas interpretaciones** sobre el mismo fenómeno, dando lugar a diversas escuelas de pensamiento.
+
+### Economía Positiva vs. Normativa
+
+|            |Economía Positiva                              |Economía Normativa                               |
+|------------|-----------------------------------------------|-------------------------------------------------|
+|**Describe**|La realidad (lo que *es*)                      |Lo que *debería ser*                             |
+|**Base**    |Hechos verificables y objetivos                |Juicios de valor e ideología                     |
+|**Ejemplo** |“Si sube el precio, baja la cantidad demandada”|“El Estado debería reducir la desigualdad social”|
+
+-----
+
+## 2. Problemas Económicos Fundamentales
+
+Toda sociedad debe resolver **cuatro preguntas básicas**:
+
+|#|Pregunta                 |Descripción                                          |
+|-|-------------------------|-----------------------------------------------------|
+|1|**¿Qué producir?**       |Qué bienes y servicios generar                       |
+|2|**¿Cuánto producir?**    |Qué cantidad de cada bien o servicio                 |
+|3|**¿Cómo producir?**      |Qué recursos, técnicas y tecnologías utilizar        |
+|4|**¿Para quién producir?**|Cómo distribuir los bienes y servicios en la sociedad|
+
+
+> **Costo de oportunidad:** Como los recursos son limitados, elegir una opción siempre implica renunciar a otra. El costo de oportunidad es el valor de la mejor alternativa descartada.
+
+-----
+
+## 3. Microeconomía y Macroeconomía
+
+### 🔬 Microeconomía — *El árbol*
+
+Estudia el comportamiento de **agentes individuales**: familias, empresas y mercados específicos.
+
+**Temas principales:**
+
+- Teoría del consumidor (maximización de utilidad)
+- Teoría de la empresa (maximización de beneficios)
+- Formación de precios en mercados
+- Estructuras de mercado (competencia, monopolio)
+- Elasticidades de oferta y demanda
+
+**Ejemplo:** La caída en la demanda de autos afecta a talleres mecánicos, aseguradoras y concesionarias.
+
+### 🌐 Macroeconomía — *El bosque*
+
+Estudia el funcionamiento de la **economía como un todo**, analizando grandes variables agregadas.
+
+**Variables principales:**
+
+|Variable               |Descripción                                                |
+|-----------------------|-----------------------------------------------------------|
+|**PBI**                |Producto Bruto Interno — riqueza total producida en un país|
+|**Inflación**          |Aumento sostenido del nivel general de precios             |
+|**Empleo / Desempleo** |Personas con y sin trabajo                                 |
+|**Tasa de interés**    |Costo del dinero en la economía                            |
+|**Consumo e inversión**|Agregados totales de la economía                           |
+
+**Ejemplo:** Una baja en la tasa de interés puede incentivar la inversión → más empleo.
+
+-----
+
+## 4. Las Necesidades Humanas
+
+Las **necesidades humanas** son la sensación de carencia de algo acompañada del deseo de satisfacerla. No son fijas: evolucionan con el desarrollo tecnológico y los cambios culturales.
+
+### Por su origen
+
+```
+Necesidades
+├── Individuales
+│   ├── Naturales → supervivencia biológica (alimentarse, dormir, vestirse)
+│   └── Sociales  → vivir en sociedad (celebraciones, pertenecer a grupos)
+└── Sociales
+    ├── Colectivas → origen individual que se vuelve común (transporte público)
+    └── Públicas   → organización social (seguridad, justicia, defensa)
+```
+
+### Por su naturaleza
+
+|Tipo                   |Descripción                                  |Ejemplos                            |
+|-----------------------|---------------------------------------------|------------------------------------|
+|**Primarias / Vitales**|Indispensables para sobrevivir               |Alimentación, vivienda, salud       |
+|**Secundarias**        |Mejoran la calidad de vida, no son esenciales|Turismo, tecnología, entretenimiento|
+
+-----
+
+## 5. Los Bienes Económicos
+
+Un **bien económico** posee tres características:
+
+- **Utilidad** — sirve para satisfacer una necesidad
+- **Escasez** — no existe en cantidad ilimitada
+- **Transferibilidad** — puede intercambiarse o comercializarse
+
+> **Bienes libres:** disponibles en cantidad suficiente para todos, sin costo de intercambio (el aire, la luz solar). *No son objeto de estudio económico por carecer de escasez.*
+
+### Clasificación completa
+
+#### Por su función
+
+|Tipo                      |Descripción          |Ejemplos                             |
+|--------------------------|---------------------|-------------------------------------|
+|**De consumo durables**   |Uso prolongado       |Auto, heladera, computadora          |
+|**De consumo no durables**|Se agotan rápido     |Alimentos, productos de limpieza     |
+|**De capital / inversión**|Producen otros bienes|Maquinaria, herramientas industriales|
+
+#### Por su grado de transformación
+
+|Tipo           |Descripción                 |Ejemplo                                      |
+|---------------|----------------------------|---------------------------------------------|
+|**Intermedios**|Requieren más transformación|Harina (para hacer pan), acero (para puentes)|
+|**Finales**    |Listos para el consumo      |El pan en la panadería, el auto terminado    |
+
+#### Por su acceso
+
+|Tipo        |Descripción                                 |Ejemplos                            |
+|------------|--------------------------------------------|------------------------------------|
+|**Privados**|Solo accede su propietario (excluibles)     |Casa, auto, celular                 |
+|**Públicos**|Consumo simultáneo; nadie puede ser excluido|Plazas, alumbrado, educación pública|
+
+#### ⚠️ Por su nivel de demanda
+
+|Tipo          |Relación con el ingreso|Ejemplos                                  |
+|--------------|-----------------------|------------------------------------------|
+|**Normales**  |Ingreso ↑ → Consumo ↑  |Ropa de marca, auto nuevo, viajes         |
+|**Inferiores**|Ingreso ↑ → Consumo ↓  |Auto usado, ropa de segunda mano, alquiler|
+
+#### Bienes complementarios y sustitutos
+
+|Tipo               |Relación                                                   |Ejemplos                                 |
+|-------------------|-----------------------------------------------------------|-----------------------------------------|
+|**Complementarios**|Se consumen juntos; demanda va en el mismo sentido         |Café + leche + azúcar; Auto + combustible|
+|**Sustitutos**     |Se reemplazan; si sube precio de uno, sube consumo del otro|Café ↔ Té; Manteca ↔ Margarina           |
+
+-----
+
+## 6. Servicios y Factores de Producción
+
+### Los Servicios
+
+Actividades que, sin producir bienes materiales, satisfacen necesidades humanas. Son **intangibles** (no se pueden tocar ni almacenar).
+
+*Ejemplos: transporte, educación, salud, turismo, servicios bancarios, comercio.*
+
+### Factores de Producción
+
+Recursos utilizados para producir bienes y servicios:
+
+|Factor       |Descripción                          |Retribución        |Ejemplos                               |
+|-------------|-------------------------------------|-------------------|---------------------------------------|
+|🌱 **Tierra** |Recursos naturales                   |Renta              |Suelo, agua, minerales, energía        |
+|👷 **Trabajo**|Capacidades físicas e intelectuales  |Salario            |Trabajo manual, intelectual, de gestión|
+|🏭 **Capital**|Bienes producidos para producir otros|Interés / Beneficio|Maquinaria, edificios, equipos         |
+
+### Tipos de Capital
+
+```
+Capital
+├── Fijo       → se usa en varios procesos (maquinaria, edificios, equipos)
+├── Circulante → se consume en el proceso (materias primas, insumos)
+└── Humano     → conocimientos y habilidades de las personas
+```
+
+> **Capital Humano:** La inversión en educación y capacitación aumenta la productividad, la competitividad y contribuye al crecimiento económico. Un país con trabajadores bien formados tiene menores costos de producción y mayor desarrollo.
+
+-----
+
+## 7. Ley de Oferta y Demanda
+
+Es el principio básico de una economía de mercado. Refleja la relación entre cantidad ofrecida/demandada y precio.
+
+### Ley de la Demanda
+
+*Ceteris paribus* (todo lo demás constante), cuando el precio **sube**, la cantidad demandada **baja**.
+
+```
+P ↑  →  Qd ↓      |      P ↓  →  Qd ↑
+```
+
+La curva de demanda es **decreciente**.
+
+### Ley de la Oferta
+
+*Ceteris paribus*, cuando el precio **sube**, los productores ofrecen **más** unidades.
+
+```
+P ↑  →  Qs ↑      |      P ↓  →  Qs ↓
+```
+
+La curva de oferta es **creciente**.
+
+### Equilibrio de Mercado
+
+Punto donde ambas curvas se cruzan: la cantidad que los compradores quieren comprar **iguala** exactamente a la que los vendedores quieren vender.
+
+|Situación                       |Descripción                                            |Resultado                   |
+|--------------------------------|-------------------------------------------------------|----------------------------|
+|**Exceso de oferta** (superávit)|Cantidad ofrecida > demandada · precio sobre equilibrio|Vendedores **bajan** precios|
+|**Exceso de demanda** (escasez) |Cantidad demandada > ofrecida · precio bajo equilibrio |Vendedores **suben** precios|
+
+### Desplazamientos de las curvas
+
+Los factores que mueven la curva entera (≠ al precio):
+
+**Demanda se desplaza por:** cambios en ingreso, gustos, precios de bienes relacionados, expectativas, número de compradores.
+
+**Oferta se desplaza por:** cambios en costos de producción, tecnología, política pública (impuestos/subsidios), factores climáticos.
+
+> **Ceteris paribus:** expresión latina que significa “todo lo demás constante”. Permite aislar el efecto de una sola variable manteniendo el resto fijo. Es un supuesto metodológico fundamental.
+
+-----
+
+## 8. Tipos de Competencia
+
+|Estructura                   |Vendedores     |Compradores|Control del precio           |Ejemplo real                      |
+|-----------------------------|---------------|-----------|-----------------------------|----------------------------------|
+|**Competencia perfecta**     |Muchos         |Muchos     |Nadie (precio-aceptantes)    |Mercados agrícolas (en teoría)    |
+|**Competencia monopolística**|Muchos         |Muchos     |Algo (diferenciación)        |Restaurantes, ropa, peluquerías   |
+|**Oligopolio**               |Pocos          |Muchos     |Significativo                |Telecomunicaciones, bancos, autos |
+|**Monopolio**                |Uno            |Muchos     |Total                        |Servicios públicos sin competencia|
+|**Oligopsonio**              |Muchos         |Pocos      |Compradores controlan        |Supermercados vs. productores     |
+|**Monopsonio**               |Muchos / varios|Uno        |Comprador único controla todo|Estado comprando armamento        |
+
+-----
+
+## 9. Agentes y Sectores Económicos
+
+### Los tres grandes agentes
+
+|Agente        |Rol principal                                  |Objetivo           |
+|--------------|-----------------------------------------------|-------------------|
+|🏠 **Familias**|Consumen bienes; ofrecen trabajo y capital     |Maximizar bienestar|
+|🏢 **Empresas**|Producen bienes y servicios; contratan factores|Maximizar ganancias|
+|🏛 **Estado**  |Regula, redistribuye, brinda servicios públicos|Bienestar general  |
+
+### Sectores de la economía
+
+|Sector           |Actividad                        |Ejemplos                                   |
+|-----------------|---------------------------------|-------------------------------------------|
+|🌾 **Primario**   |Extracción de recursos naturales |Agricultura, ganadería, pesca, minería     |
+|🏗 **Secundario** |Transformación de materias primas|Industria manufacturera, construcción      |
+|🛍 **Terciario**  |Prestación de servicios          |Comercio, bancos, educación, salud, turismo|
+|💡 **Cuaternario**|Conocimiento e innovación        |I+D, software, inteligencia artificial     |
+
+-----
+
+## 10. Valor Agregado y Flujo Circular
+
+### Valor Agregado
+
+Aumento de valor que recibe un bien en cada etapa del proceso productivo.
+
+**Ejemplo — Cadena del pan:**
+
+|Etapa      |Producto      |Valor|Valor Agregado|
+|-----------|--------------|-----|--------------|
+|Agricultura|Trigo         |$100 |$100          |
+|Molienda   |Harina        |$160 |$60           |
+|Panadería  |Pan           |$280 |$120          |
+|Comercio   |Pan en góndola|$350 |$70           |
+|**Total**  |              |     |**$350**      |
+
+**¿Por qué es tan importante?**
+
+- **Genera riqueza:** a mayor transformación, mayor valor del producto
+- **Impulsa el desarrollo:** los países que industrializan crecen más que los que solo exportan materias primas
+- **Genera empleo (demanda derivada):** exportar soja = poco empleo; transformarla en aceite o alimentos = mucho más empleo
+
+### Flujo Circular del Ingreso
+
+Modelo que muestra cómo circula el dinero y los bienes entre los agentes:
+
+```
+  FAMILIAS  ──── trabajo, tierra, capital ────▶  MERCADO DE FACTORES
+      ▲                                                    │
+      │                                              salarios, rentas
+  consumo                                                  │
+      │                                                    ▼
+  MERCADO DE PRODUCTOS  ◀──── bienes y servicios ──  EMPRESAS
+```
+
+El **Estado** interviene cobrando impuestos y devolviendo subsidios y servicios públicos.
+
+> **⚠️ Efecto en cadena:**
+> ↓ Consumo → ↓ Producción → ↓ Empleo → ↓ Ingresos → ↓ Consumo → …
+
+-----
+
+## 11. Escuelas de Pensamiento Económico
+
+-----
+
+### 🔴 Escuela Clásica
+
+> **Siglos XVIII–XIX · Adam Smith, David Ricardo, John Stuart Mill**
+
+**Contexto:** Nace con la Revolución Industrial en Inglaterra como respuesta al mercantilismo (que creía que la riqueza estaba en acumular oro y metales preciosos).
+
+**Idea central:** La economía se autorregula a través del mercado libre. Una *“mano invisible”* guía a los individuos que buscan su propio beneficio hacia el bienestar general, sin necesidad de coordinación estatal.
+
+> *“No es de la benevolencia del carnicero, del cervecero o del panadero de quien esperamos nuestra cena, sino de su consideración a su propio interés.”*
+> — Adam Smith, La Riqueza de las Naciones (1776)
+
+**Postulados principales:**
+
+- **Mano invisible:** el mercado libre lleva al equilibrio y al bienestar general de forma espontánea
+- **División del trabajo:** la especialización aumenta la productividad y genera más riqueza
+- **Teoría del valor-trabajo:** el valor de los bienes proviene del trabajo humano incorporado en producirlos
+- **Ley de Say:** “toda oferta crea su propia demanda”; no puede haber sobreproducción general persistente
+- **Libre comercio:** el comercio internacional beneficia a todas las naciones (ventajas comparativas de Ricardo)
+- **Rol mínimo del Estado:** solo debe garantizar la seguridad, la propiedad privada y el cumplimiento de contratos
+
+**Legado:** Estableció las bases de la economía moderna. Sus principios siguen vigentes en la economía liberal contemporánea.
+
+-----
+
+### 🟠 Escuela Neoclásica
+
+> **Fines siglo XIX – actualidad · Alfred Marshall, Léon Walras, Carl Menger, William Jevons**
+
+**Contexto:** Surge como evolución y refinamiento de la escuela clásica. Incorpora matemáticas y análisis marginal al estudio económico. Es la base del análisis microeconómico moderno.
+
+**Idea central:** El valor de los bienes no proviene solo del trabajo, sino de la *utilidad marginal*: cuánto satisface la última unidad consumida. Los agentes son racionales y maximizan utilidad o beneficios.
+
+**Postulados principales:**
+
+- **Utilidad marginal decreciente:** a mayor consumo de un bien, cada unidad adicional genera *menos satisfacción*. El primer vaso de agua en el desierto vale muchísimo; el décimo, muy poco.
+- **Racionalidad económica:** los consumidores y empresas maximizan su bienestar o ganancia
+- **Equilibrio general:** todos los mercados se equilibran simultáneamente a través de ajustes de precios
+- **Análisis marginal:** las decisiones se toman “en el margen” (¿conviene producir/consumir una unidad más?)
+- **Los precios reflejan la escasez:** precio alto = bien escaso; precio bajo = bien abundante
+
+**Diferencia clave con los clásicos:** Los clásicos basaban el valor en el *trabajo*. Los neoclásicos lo basan en la *utilidad subjetiva del consumidor*. También incorporaron herramientas matemáticas que los clásicos no usaban.
+
+-----
+
+### 🔵 Escuela Keynesiana
+
+> **Siglo XX · John Maynard Keynes · “Teoría General” (1936)**
+
+**Contexto:** Surge como respuesta a la **Gran Depresión de 1929**, el mayor colapso del capitalismo hasta ese momento. El desempleo masivo demostró que el mercado NO siempre se autorregula.
+
+**Idea central:** El mercado puede quedarse “atascado” en equilibrios con alto desempleo. En esos casos, el *Estado debe intervenir activamente*, aumentando el gasto público para estimular la demanda agregada.
+
+> *“En el largo plazo, todos estamos muertos.”*
+> — John Maynard Keynes (criticando la idea de esperar que el mercado se autorregule solo)
+
+**Postulados principales:**
+
+- **Demanda agregada como motor:** el nivel de producción y empleo depende del consumo + inversión + gasto público + exportaciones netas
+- **El desempleo puede ser persistente:** los mercados no garantizan el pleno empleo por sí solos
+- **Política fiscal activa:** el Estado debe aumentar el gasto público en recesiones, incluso incurriendo en déficit fiscal
+- **Multiplicador del gasto:** un peso de gasto público genera más de un peso de actividad económica
+- **Trampa de liquidez:** en crisis profundas, la gente prefiere ahorrar que gastar, agravando la recesión
+
+> **El Multiplicador Keynesiano:** Si el Estado gasta $100 en infraestructura → esos $100 son salarios → los trabajadores consumen → generan ventas para otras empresas → éstas contratan más → el efecto final puede ser $200 o más.
+
+**Legado:** Dominó la política económica occidental desde la posguerra (1945) hasta los años 70. El Estado de Bienestar (salud, educación y seguridad social universales) es producto del pensamiento keynesiano.
+
+-----
+
+### 🟢 Escuela Monetarista
+
+> **Siglo XX · Milton Friedman · Escuela de Chicago**
+
+**Contexto:** Surge en los años 60–70 como crítica al keynesianismo. La *estanflación* (inflación alta + desempleo simultáneos) de los años 70 pareció contradecir el modelo keynesiano. Friedman argumentó que el exceso de gasto público era la causa de la inflación.
+
+**Idea central:** La principal causa de la inflación y las crisis es el *exceso de dinero en circulación*. El banco central debe controlar rigurosamente la oferta monetaria para garantizar la estabilidad de precios.
+
+> *“La inflación es siempre y en todo lugar un fenómeno monetario.”*
+> — Milton Friedman
+
+**Postulados principales:**
+
+- **Teoría Cuantitativa del Dinero:** si la cantidad de dinero crece más rápido que la producción real, hay inflación
+- **Política monetaria > política fiscal:** controlar la oferta de dinero es más efectivo que manejar el gasto público
+- **Reglas en lugar de discreción:** el banco central debe seguir reglas fijas en vez de actuar discrecionalmente
+- **Neutralidad del dinero en el largo plazo:** más dinero solo genera inflación, no crecimiento real sostenido
+- **Tasa natural de desempleo:** existe un nivel “natural” que no se puede reducir con política monetaria sin generar inflación
+- **Libre mercado:** la economía se autorregula mejor sin intervención excesiva del Estado
+
+**Ecuación de Fisher:**
+
+```
+M × V = P × Q
+
+M = oferta monetaria
+V = velocidad de circulación
+P = nivel de precios
+Q = producción real
+
+Si V y Q son estables → más M se traduce directamente en más P (inflación).
+```
+
+**Legado:** Influyó enormemente en los gobiernos de Thatcher (UK) y Reagan (USA) en los 80, y en las políticas del FMI y el Banco Mundial.
+
+-----
+
+### 🟣 Escuela Socialista / Marxista
+
+> **Siglo XIX–XX · Karl Marx, Friedrich Engels · “El Capital” (1867)**
+
+**Contexto:** Surge como respuesta crítica al capitalismo industrial del siglo XIX, que generaba enormes riquezas para pocos mientras las condiciones de los trabajadores eran miserables. Marx observó las fábricas inglesas y analizó las contradicciones del sistema.
+
+**Idea central:** El capitalismo se basa en la *explotación de los trabajadores*. La propiedad privada de los medios de producción genera desigualdad estructural e inevitable. La solución es la propiedad colectiva y la planificación centralizada.
+
+> *“La historia de todas las sociedades hasta nuestros días es la historia de las luchas de clases.”*
+> — Karl Marx y Friedrich Engels, El Manifiesto Comunista (1848)
+
+**Postulados principales:**
+
+- **Teoría del valor-trabajo:** el único creador de valor es el trabajo humano; el valor de un bien depende del tiempo de trabajo socialmente necesario para producirlo
+- **Plusvalía:** diferencia entre el valor que crea el trabajador y el salario que recibe; el capitalista se apropia de esa plusvalía → fuente de la explotación
+- **Lucha de clases:** la sociedad capitalista se divide en *burguesía* (dueños de los medios de producción) y *proletariado* (trabajadores que solo tienen su fuerza de trabajo); sus intereses son irreconciliables
+- **Concentración del capital:** el capitalismo tiende a concentrar riqueza en pocas manos, generando monopolios y más desigualdad
+- **Crisis cíclicas:** el capitalismo genera crisis periódicas de sobreproducción que se agravan con el tiempo
+- **Planificación centralizada:** el Estado debe controlar los medios de producción para distribuir equitativamente la riqueza
+
+> **Plusvalía (concepto clave):** Un trabajador produce en 4 horas un valor equivalente a su salario mensual. Pero trabaja 8 horas. Las otras 4 horas produce valor que el capitalista se apropia. Ahí está, para Marx, la raíz de la explotación.
+
+**Socialismo vs. Comunismo (según Marx):**
+
+|                |Socialismo                       |Comunismo                        |
+|----------------|---------------------------------|---------------------------------|
+|**Etapa**       |Transición                       |Final                            |
+|**Estado**      |Controla los medios de producción|Desaparece                       |
+|**Distribución**|Según el trabajo aportado        |Según las necesidades de cada uno|
+
+**Legado:** Generó profundas transformaciones en el siglo XX (Revolución Rusa, China, Cuba). Sus análisis sobre desigualdad y concentración de capital siguen siendo muy relevantes. Sus propuestas de planificación centralizada mostraron serias limitaciones prácticas.
+
+-----
+
+## 12. Tabla Comparativa Final
+
+|Escuela                  |Período · Autor             |Idea central                                    |Rol del Estado         |Mercado libre|Instrumento clave                         |
+|-------------------------|----------------------------|------------------------------------------------|-----------------------|-------------|------------------------------------------|
+|**Clásica**              |S.XVIII-XIX · Smith, Ricardo|Mano invisible; mercado se autorregula          |Mínimo                 |✅ Total      |Libre comercio, división del trabajo      |
+|**Neoclásica**           |S.XIX-XX · Marshall, Walras |Valor por utilidad marginal; agentes racionales |Mínimo                 |✅ Total      |Análisis marginal, sistema de precios     |
+|**Keynesiana**           |S.XX · Keynes               |Demanda agregada determina empleo y producción  |Activo e interventor   |⚠️ Parcial    |Gasto público, política fiscal, déficit   |
+|**Monetarista**          |S.XX · Friedman             |La inflación es siempre un fenómeno monetario   |Limitado (reglas fijas)|✅ Sí         |Control oferta monetaria, banco central   |
+|**Socialista / Marxista**|S.XIX-XX · Marx, Engels     |El capitalismo explota al trabajador (plusvalía)|Central / total        |❌ No         |Planificación estatal, propiedad colectiva|
+
+### Diferencias clave para el examen
+
+- **Clásica vs. Neoclásica:** ambas apoyan el libre mercado, pero la neoclásica cambia la teoría del valor (de trabajo a utilidad marginal) e incorpora herramientas matemáticas.
+- **Clásica/Neoclásica vs. Keynesiana:** las primeras confían en la autorregulación del mercado; Keynes dice que el mercado puede fallar y necesita ayuda del Estado.
+- **Keynesiana vs. Monetarista:** ambas operan dentro del capitalismo, pero difieren en la herramienta: Keynes usa la política **fiscal** (gasto); los monetaristas usan la política **monetaria** (dinero).
+- **Capitalistas vs. Socialistas:** las primeras cuatro aceptan la propiedad privada y el mercado (con distintos grados); el marxismo propone eliminar la propiedad privada de los *medios de producción*.
+
+-----
+
+*Prof. Lic. Gustavo Miculicich · Economía y Gestión de las Organizaciones*
